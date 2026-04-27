@@ -4,9 +4,11 @@
 
 E-commerce Web QA Jira Project
 
-## Project Type
+## Application Under Test
 
-Self-practice manual QA portfolio project based on an existing e-commerce demo web application.
+Application: nopCommerce Demo Store  
+URL: https://demo.nopcommerce.com/  
+Application type: Existing e-commerce demo web application
 
 ## Business Context
 

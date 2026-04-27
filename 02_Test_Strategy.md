@@ -2,6 +2,8 @@
 
 ## Application Under Test
 
+Application: nopCommerce Demo Store  
+URL: https://demo.nopcommerce.com/  
 Application type: Existing e-commerce demo web application.
 
 The application allows users to:
@@ -15,8 +17,6 @@ The application allows users to:
 - proceed to checkout;
 - register or log in;
 - fill customer/order forms.
-
----
 
 ## Testing Goal
 
@@ -194,15 +194,16 @@ DevTools checks are used only for observation and evidence collection.
 
 ## Test Environment
 
-| Parameter   | Value                           |
-| ----------- | ------------------------------- |
-| OS          | macOS                           |
-| Browser     | Yandex Browser / Chrome         |
-| Device      | Desktop / Laptop                |
-| Application | E-commerce demo web application |
-| Test Type   | Manual testing                  |
-| Bug Tracker | Jira                            |
-| Evidence    | Screenshots / videos            |
+| Parameter   | Value                         |
+| ----------- | ----------------------------- |
+| OS          | macOS                         |
+| Browser     | Yandex Browser / Chrome       |
+| Device      | Desktop / Laptop              |
+| Application | nopCommerce Demo Store        |
+| URL         | https://demo.nopcommerce.com/ |
+| Test Type   | Manual testing                |
+| Bug Tracker | Jira                          |
+| Evidence    | Screenshots / videos          |
 
 ---
 

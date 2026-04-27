@@ -17,6 +17,8 @@ The goal is to simulate a real QA workflow:
 
 ## Application Under Test
 
+Application: nopCommerce Demo Store  
+URL: https://demo.nopcommerce.com/  
 Application type: E-commerce demo web application
 
 Main tested areas:
