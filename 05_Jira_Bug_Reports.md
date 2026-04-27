@@ -281,3 +281,28 @@ This is an example format. Real bugs should be added only after actual test exec
 - Every bug should have clear expected and actual result.
 - Severity should describe impact.
 - Priority should describe urgency.
+
+## Bug Summary
+
+During the first test execution session, no confirmed functional bugs were found.
+
+| Session   | Area                        | Result                   |
+| --------- | --------------------------- | ------------------------ |
+| Session 1 | Smoke flow                  | Passed                   |
+| Session 1 | Product search              | Passed                   |
+| Session 1 | Product details             | Passed                   |
+| Session 1 | Add to cart                 | Passed                   |
+| Session 1 | Cart quantity validation    | Passed                   |
+| Session 1 | Checkout validation         | Passed                   |
+| Session 1 | Mobile viewport basic check | Passed                   |
+| Session 1 | DevTools Console check      | No critical errors found |
+
+## QA Conclusion
+
+No confirmed bugs were found during the first testing session.
+
+The tested critical user flow worked as expected:
+
+Home page → Product search → Product details → Add to cart → Cart → Checkout.
+
+Further testing may include cross-browser testing, deeper mobile viewport testing, accessibility checks and exploratory testing.
